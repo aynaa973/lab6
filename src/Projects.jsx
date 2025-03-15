@@ -3,9 +3,8 @@ function Projects() {
       <div className="container mt-5">
         <h2>My Projects</h2>
         <ul>
-          <li>Project 1: Beach Blu Noser - Taxi Booking App</li>
-          <li>Project 2: Community Health Platform for Elderly</li>
-          <li>Project 3: Inventory Management System (JavaScript ES6)</li>
+          <li>Project 1: lab 6 react js bootstrap</li>
+          <li>Project 2: chemAr for CSCI3961</li>
         </ul>
       </div>
     );
