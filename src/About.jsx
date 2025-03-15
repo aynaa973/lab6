@@ -6,7 +6,6 @@ function About() {
         <ul>
           <li>Education: Applied Computer Science at Dalhousie University</li>
           <li>Skills: React, JavaScript</li>
-          <li>Career: to be UX designer</li>
         </ul>
       </div>
     );
